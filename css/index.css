@@ -1,0 +1,41 @@
+ #migrane {
+    font-family: 'Roboto Mono', monospace;
+}
+
+p {
+    font-family: 'Eczar', serif;
+}
+
+#logo {
+    border-radius:80% ;
+    float: left;
+    width: 50px;
+    margin-top: 2px;
+    margin-left: auto;
+   
+}
+#menu {
+    height: 55px;
+    width: 100%;
+    background-color:#1a1a1a ;
+    color: white;
+}
+
+.item_menu {
+    float: right;
+    margin-left: 2%;
+    margin-top: 1.5%;
+    margin-right: 20px;
+}
+
+.item_menu a {
+    text-decoration: none;
+    color: white;
+}
+
+.item_menu a:hover {
+    background-color: #1a1a1a;
+    color: rgb(29, 108, 226); 
+}
+
+    
